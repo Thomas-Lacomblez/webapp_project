@@ -1,0 +1,3 @@
+---
+# Install a role for static webapp
+- src: Thomas-Lacomblez.webapp_role
